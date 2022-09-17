@@ -44,8 +44,8 @@ body {
 
 
 
-/* 6: properties of the marketing class for div element */
-.marketing div {
+/* 6: properties of the marketing class for nav element */
+.marketing nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -54,15 +54,15 @@ body {
 }
 
 
-/* 7: properties unordered list marketing class for div element */
-.marketing div ul {
+/* 7: properties unordered list marketing class for nav element */
+.marketing nav ul {
     list-style-type: none;
 }
 
 
 
-/* 8: properties of unorder list and items marketing class for div element */
-.marketing div ul li {
+/* 8: properties of unorder list and items marketing class for nav element */
+.marketing nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
