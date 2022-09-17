@@ -263,14 +263,14 @@ p {
 /*                                 */
 
 
-/* 34: */
-.footer {
+/* 34: Use an approrpiate name for footer */
+.madebyHfooter {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* 35: */
-.footer h2 {
+/* 35: Use an approrpiate name for footer*/
+.madebyHfooter h2 {
     font-size: 20px;
 }
