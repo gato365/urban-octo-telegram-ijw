@@ -121,7 +121,7 @@ p {
 
 
 /* 25: Consilidate selector into (26,27-deleted) 1*/
-.online-marketing {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -129,7 +129,24 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* 26: */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* 27: */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 /* 28: */
 .search-engine-optimization img {
     max-height: 200px;
