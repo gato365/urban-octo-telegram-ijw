@@ -8,20 +8,20 @@
 /*                                 */
 
 
-/* 1: */
+/* 1: NOTHING */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* 2: */
+/* 2: NOTHING */
 body {
     background-color: #d9dcd6;
 }
 
 
-/* 3: */
+/* 3: properties of the marketing class */
 .marketing {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,7 +29,7 @@ body {
     color: #ffffff;
 }
 
-/* 4: */
+/* 4: heading 1 of marketing class*/
 .marketing h1 {
     display: inline-block;
     font-size: 48px;
@@ -37,14 +37,14 @@ body {
 
 
 
-/* 5: */
+/* 5:  properties of the marketing class*/
 .marketing h1 .seo {
     color: #d9dcd6;
 }
 
 
 
-/* 6: */
+/* 6: properties of the marketing class for div element */
 .marketing div {
     padding-top: 15px;
     margin-right: 20px;
@@ -54,33 +54,33 @@ body {
 }
 
 
-/* 7: */
+/* 7: properties unordered list marketing class for div element */
 .marketing div ul {
     list-style-type: none;
 }
 
 
 
-/* 8: */
+/* 8: properties of unorder list and items marketing class for div element */
 .marketing div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 
-/* 9:  */
+/* 9: NOTHING  */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 
-/* 10: USED NOT */
+/* 10: NOT USED, I want to delete this, let me know if I was supposed to  */
 p {
     font-size: 16px;
 }
 
-/* 11: */
+/* 11: peciifcations for center photo */
 .hero {
     height: 800px;
     width: 100%;
