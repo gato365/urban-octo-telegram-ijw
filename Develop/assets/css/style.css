@@ -1,4 +1,13 @@
 
+/*                                 */
+/*                                 */
+/*                                 */
+/* Part 1 of Refactoring (01 - 11) */
+/*                                 */
+/*                                 */
+/*                                 */
+
+
 /* 1: */
 * {
     box-sizing: border-box;
@@ -59,7 +68,6 @@ body {
 }
 
 
-
 /* 9: */
 a {
     color: #ffffff;
@@ -67,7 +75,7 @@ a {
 }
 
 
-/* 10: */
+/* 10: USED NOT */
 p {
     font-size: 16px;
 }
@@ -82,13 +90,20 @@ p {
     background-position: center;
 }
 
+/*                                 */
+/*                                 */
+/*                                 */
+/* Part 2 of Refactoring (12 - 14) */
+/* Part 2 of Refactoring (25 - 33) */
+/*                                 */
+/*                                 */
+/*                                 */
+
 /* 12: */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
-
 
 /* 13: */
 .float-right {
@@ -97,13 +112,82 @@ p {
 }
 
 
-
 /* 14: */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+
+/* 25: */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* 26: */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* 27: */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* 28: */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+/* 29: */
+.online-reputation-management img {
+    max-height: 200px;
+}
+/* 30: */
+.social-media-marketing img {
+    max-height: 200px;
+}
+/* 31: */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* 32: */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* 33: */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+
+
+
+/*                                 */
+/*                                 */
+/*                                 */
+/* Part 3 of Refactoring (15 - 24) */
+/*                                 */
+/*                                 */
+/*                                 */
+
+
 
 
 /* 15: */
@@ -165,60 +249,20 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* 25: */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* 26: */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* 27: */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* 28: */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-/* 29: */
-.online-reputation-management img {
-    max-height: 200px;
-}
-/* 30: */
-.social-media-marketing img {
-    max-height: 200px;
-}
-/* 31: */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* 32: */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* 33: */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
+
+
+
+
+/*                                 */
+/*                                 */
+/*                                 */
+/* Part 3 of Refactoring (34 - 35) */
+/*                                 */
+/*                                 */
+/*                                 */
+
+
 /* 34: */
 .footer {
     padding: 30px;
