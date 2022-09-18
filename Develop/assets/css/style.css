@@ -156,27 +156,22 @@ p {
     max-width: 150px;
 }
 
-
-
-
-
 /*                                 */
 /*                                 */
 /*                                 */
-/* Part 3 of Refactoring (34 - 35) */
+/* Part 4 selectors within footer  */
 /*                                 */
 /*                                 */
 /*                                 */
 
-
-/* 34: Use an approrpiate name for footer */
+/* Use of madebyHfooter class to select (specifiy/control) elements properties (specifications) more efficiently */
 .madebyHfooter {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* 35: Use an approrpiate name for footer*/
+
 .madebyHfooter h2 {
     font-size: 20px;
 }
