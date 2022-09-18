@@ -5,6 +5,7 @@
 /* the header                      */
 /*                                 */
 /*                                 */
+
 /* The next selectors specify apply to every thing *, and to the body */
 * {
     box-sizing: border-box;
@@ -78,6 +79,7 @@ p {
 /*  content div                    */
 /*                                 */
 /*                                 */
+
 /* Next two selectors specify the image location and padding */
 .float-left {
     float: left;
@@ -120,15 +122,12 @@ p {
 /*                                 */
 /*                                 */
 /*                                 */
-/* Part 3 of Refactoring (15 - 24) */
+/*  Part 3 selectors within aside  */
 /*                                 */
 /*                                 */
 /*                                 */
 
-
-
-
-/* 15: */
+/* Use of specifications of the benefit class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,50 +138,19 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* 16: */
-.benefit-lead {
+
+/* Use of benefit-info class to select (specifiy/control) elements properties (specifications) more efficiently */
+.benefit-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* 17: */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* 18: */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* 19: */
-.benefit-lead h3 {
+
+.benefit-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* 20: */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* 21: */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* 22: */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* 23: */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* 24: */
-.benefit-cost img {
+
+.benefit-info img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
