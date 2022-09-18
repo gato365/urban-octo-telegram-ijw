@@ -1,27 +1,23 @@
-
 /*                                 */
 /*                                 */
 /*                                 */
-/* Part 1 of Refactoring (01 - 11) */
+/* Part 1 selectors within         */
+/* the header                      */
 /*                                 */
 /*                                 */
-/*                                 */
-
-
-/* 1: NOTHING */
+/* The next selectors specify apply to every thing *, and to the body */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* 2: NOTHING */
 body {
     background-color: #d9dcd6;
 }
 
-
-/* 3: properties of the marketing class */
+/* Use of marketing class to select (specifiy/control) elements properties (specifications) more efficiently.
+This corresponds to the next 6 selectors.  */
 .marketing {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,22 +25,15 @@ body {
     color: #ffffff;
 }
 
-/* 4: heading 1 of marketing class*/
 .marketing h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-
-
-/* 5:  properties of the marketing class*/
 .marketing h1 .seo {
     color: #d9dcd6;
 }
 
-
-
-/* 6: properties of the marketing class for nav element */
 .marketing nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -53,34 +42,26 @@ body {
     font-size: 20px;
 }
 
-
-/* 7: properties unordered list marketing class for nav element */
 .marketing nav ul {
     list-style-type: none;
 }
 
-
-
-/* 8: properties of unorder list and items marketing class for nav element */
 .marketing nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-
-/* 9: NOTHING  */
+/* The next two specifications inform the specifications for the a and p elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-
-/* 10: NOT USED, I want to delete this, let me know if I was supposed to  */
 p {
     font-size: 16px;
 }
 
-/* 11: peciifcations for center photo */
+/* Specifcations for center photo */
 .hero {
     height: 800px;
     width: 100%;
