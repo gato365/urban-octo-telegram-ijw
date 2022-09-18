@@ -79,4 +79,5 @@ Use of madebyHfooter class to select (specifiy/control) elements properties (spe
 
 
 ## Finihed Product
-!(image-url.png)[]
+
+![url](image-url.png)
