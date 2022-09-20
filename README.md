@@ -75,3 +75,9 @@ Issue 10: div class=footer" is not semantic WILL BE A footer (FIXED - DONE)
 ### CSS Issues
 
 Use of madebyHfooter class to select (specifiy/control) elements properties (specifications) more efficiently
+
+
+
+## Finished Product
+
+![url](image-url.png)
