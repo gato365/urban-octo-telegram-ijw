@@ -25,7 +25,7 @@ This corresponds to the next 6 selectors.
 
 The next two specifications inform the specifications for the a and p elements 
 
-Specifcations for center photo 
+Specifications for center photo 
 
 
 
