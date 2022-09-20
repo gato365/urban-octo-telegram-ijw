@@ -1,5 +1,9 @@
 # urban-octo-telegram-ijw
 
+## Project Description
+
+This is for challenge 1 and it was meant to for us to meet accessibility standard using sematics. 
+
 I broke the project into 4 parts (regions)
   - Part 1: Header 
   - Part 2: Sections
@@ -52,11 +56,11 @@ Use of info-social class to select (specifiy/control) elements properties (speci
 
 Issue 6: div class = "benefits" is not semantic - WILL BE AN aside (FIXED - DONE)
 
-Issue 7: div class="benefit-info" is needs same selector witin aside (FIXED - DONE) 
+Issue 7: div class="benefit-info" is needs same selector within aside (FIXED - DONE) 
 
-Issue 8: div class="benefit-info" is needs same selector witin aside (FIXED - DONE) 
+Issue 8: div class="benefit-info" is needs same selector within aside (FIXED - DONE) 
 
-Issue 9: div class="benefit-info" is needs same selector witin aside (FIXED - DONE) 
+Issue 9: div class="benefit-info" is needs same selector within aside (FIXED - DONE) 
 
 ### CSS Issues
 
